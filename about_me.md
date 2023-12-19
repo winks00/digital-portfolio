@@ -1,5 +1,5 @@
 # About me
-About Me: 
+About Me:  
 Dear Hiring Manager,
 
 I am excited to apply for the data scientist position at your company. With a PhD degree 
